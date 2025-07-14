@@ -73,9 +73,10 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harshit-TheCoder&show_icons=true&theme=radical" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshit-TheCoder&theme=radical" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Harshit-TheCoder&show_icons=true&theme=radical" height="180px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshit-TheCoder&theme=radical" height="180px" />
 </p>
+
 
 ---
 
