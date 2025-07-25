@@ -14,7 +14,10 @@
   - [✔️] **Microsoft Azure AI Fundamentals**
   - [✔️] **HackerRank Java**
   - [✔️] **Teachnook ML Internship** *(in collaboration with IIT Roorkee)*
-
+  - [✔️] **Oracle Certified Foundations Associate**
+  - [✔️] **Alteryx Micro Foundation**
+  - [✔️] **Meta Database Engineer**
+  - [✔️] **Career Essentials in Generative AI (Microsoft and LinkedIn)**
 ---
 
 🌟 Always exploring new ideas in **Generative AI**, **Machine Learning**, and **Web Development**.  
